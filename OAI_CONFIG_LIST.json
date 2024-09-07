@@ -1,0 +1,15 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key":"your_api_key"
+    },
+    {
+        "model": "llama-3.1-70b-versatile",
+        "api_key": "your_api_key",
+        "api_type": "groq"
+    },
+    {
+        "model": "gpt-4o-mini",
+        "api_key":"your_api_key"
+    }
+]
