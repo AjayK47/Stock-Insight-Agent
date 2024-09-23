@@ -1,4 +1,4 @@
-# Stock Insight Agents
+# Stock Insight Agentic Framework
 
 Stock Insight Agents is a multi-agent system that leverages advanced language models to analyze financial data, review market news, and provide predictions on company stock performance. This system is built using the `autogen` library to manage interactions between multiple agents, each with a specific role in processing financial information and making predictions.
 
